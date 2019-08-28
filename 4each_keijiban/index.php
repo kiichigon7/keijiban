@@ -39,7 +39,7 @@
      <br>
      <input type="text" class="text" size="35" name="title">
   </div>
-     
+
   <div>
      <label>コメント</label>
      <br>
@@ -95,9 +95,14 @@
   <li>HTML</li>
   <li>PHP</li>
   <li>MySQL</li>
-  <li>JavaScript</li></ul></div> 
+  <li>JavaScript</li></ul>
+</div>
+</main>   
+
+    
+<footer>copyright internous| 4each blog is the one wich provides A toZ about programming
+</footer>  
     
     
-    </main>   
 </body>
 </html>
